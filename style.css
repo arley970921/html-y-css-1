@@ -1,5 +1,9 @@
 body{
     text-align: center;
+    background: #CCCCCC;
+}
+em strong{
+    color: red;
 }
 #p2{
     font-size: 20px;
