@@ -1,4 +1,4 @@
-h1{
+.tituloPrincipal{
     text-align: center;
 }
 p{
@@ -18,12 +18,12 @@ em strong{
 #mision{
     font-size: 20px;
 }
+.tituloCentralizado{
+    text-align: center;
+}
 .diferenciales{
     background: #FFFFFF;
     padding: 30px;
-}
-h2{
-    text-align: center;
 }
 .items{
     font-style: italic;
