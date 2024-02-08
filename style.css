@@ -1,6 +1,3 @@
-body{
-    background: #CCCCCC;
-}
 h1{
     text-align: center;
 }
@@ -14,8 +11,17 @@ p{
 em strong{
     color: red;
 }
+.principal{
+    background: #CCCCCC;
+}
 #mision{
     font-size: 20px;
+}
+.diferenciales{
+    background: #FFFFFF;
+}
+h2{
+    text-align: center;
 }
 .items{
     font-style: italic;
